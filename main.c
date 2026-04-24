@@ -1,5 +1,4 @@
 #include <unistd.h>
-void ft_putstr(char *str);
 
 char	get_choice(void)
 {
